@@ -6,3 +6,6 @@ sass:
   sass_dir: _sass
   style: compressed
 
+exclude:
+  Readme.md
+  Gemfile
