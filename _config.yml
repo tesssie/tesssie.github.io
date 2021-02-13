@@ -11,3 +11,5 @@ exclude:
   - .idea/
   - Readme
   - Gemfile
+
+permalink:
