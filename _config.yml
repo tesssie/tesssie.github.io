@@ -1,7 +1,13 @@
 url: "https://tesssie.github.io/"
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Tessy joseph John| Building Software".
+title: "Tessy joseph John| Building Software"
 
 sass:
   sass_dir: _sass
   style: compressed
+
+exclude:
+  - gitignore
+  - .idea/
+  - Readme
+  - Gemfile
