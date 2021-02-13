@@ -1,0 +1,27 @@
+$fa-font-path:  "webfonts";
+
+@import 'bower_components/bootstrap/scss/bootstrap';
+
+body {
+  background-color: rgb(10,25,47);
+  color: rgb(136, 146, 176);
+}
+
+.about-me-intro {
+  font-size: 16px;
+  color: rgb(100, 255, 218);
+}
+.about-me-name {
+  color: white;
+  font-weight: bold;
+  font-size: 80px;
+}
+
+.social-media-item {
+  background-color: rgb(10,25,47)
+}
+
+ion-icon {
+  color: #00cc00;
+  pointer-events: none;
+}
